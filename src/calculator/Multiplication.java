@@ -2,6 +2,7 @@ package calculator;
 
 public class Multiplication {
     public int multiply(int a, int b) {
-        return a * b;
+    	if(a==0 || b==0) return 0;
+        return (b * a);
     }
 }
