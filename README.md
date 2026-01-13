@@ -1,8 +1,3 @@
-Below is a **ready-to-use, detailed theoretical document** you can **directly paste into your assignment / PDF / Google Doc**.
-It is written in **simple, examiner-friendly language** and **matches your practical work (Eclipse + Git Bash)**.
-
----
-
 # 📘 Git-Based Calculator Repository
 
 ## Detailed Documentation
@@ -272,15 +267,4 @@ This project successfully demonstrates:
 * Intentional creation and resolution of merge conflicts
 * Proper version control practices using Git and GitHub
 
-The assignment helped in gaining hands-on experience with real-world Git workflows.
-
----
-
-If you want, I can:
-
-* Convert this into **PDF format**
-* Shorten it for **exam answers**
-* Match it exactly to **screenshots you took**
-* Review your **GitHub repo before final submission**
-
-Just tell me 👍
+The assignment helped in gaining hands-on experience with real-world Git workflows
